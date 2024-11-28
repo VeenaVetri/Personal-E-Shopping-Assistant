@@ -24,9 +24,9 @@ This project is a personalized e-shopping assistant chatbot built using Streamli
     `streamlit run app.py`
 
 ## How to Use
-Open your browser and navigate to localhost.
-Type your shopping-related question in the chatbox.
-The assistant will respond with concise and relevant information.
-You can use the Clear Chat History button in the sidebar to reset the conversation.
+- Open your browser and navigate to localhost.
+- Type your shopping-related question in the chatbox.
+- The assistant will respond with concise and relevant information.
+- You can use the Clear Chat History button in the sidebar to reset the conversation.
 
 
